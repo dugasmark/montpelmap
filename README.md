@@ -34,6 +34,13 @@ Exemple: [http://marc-dugas.fr/projets/montpelmap/](http://marc-dugas.fr/projets
 - **onClickMap**: Evènement "click" sur la carte
 - **onClickLabel**: Evènement "click" sur les labels
 
+## Sources ##
+
+Le fichier geoJson montpel_quart_wgs84.json à été créé à partir des sources de données suivantes:
+
+- http://opendata.montpelliernumerique.fr/Quartiers
+- http://opendata.montpelliernumerique.fr/Sous-quartiers
+
 ## License ##
 
 The MIT License (MIT)
