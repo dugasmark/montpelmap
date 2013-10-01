@@ -5,6 +5,7 @@ Carte des quartiers de Montpellier avec d3.js
 
 Exemple: [http://marc-dugas.fr/projets/montpelmap/](http://marc-dugas.fr/projets/montpelmap/)
 
+![montpelmap](http://www.marc-dugas.fr/projets/montpelmap/montpelmap.png)
 
 ## Utilisation ##
 
