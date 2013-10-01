@@ -31,8 +31,8 @@ Exemple: [http://marc-dugas.fr/projets/montpelmap/](http://marc-dugas.fr/projets
 - **target**: selecteur DOM
 - **source**: fichier geoJson
 - **labels**: booleen afficher les titres des quartiers
-- **onClickMap**: Evennement "click" sur la carte
-- **onClickLabel**: Evennement "click" sur les labels
+- **onClickMap**: Evènement "click" sur la carte
+- **onClickLabel**: Evènement "click" sur les labels
 
 ## License ##
 
